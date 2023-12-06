@@ -1,0 +1,1 @@
+audio_sound_gain(Drum1,1,4);

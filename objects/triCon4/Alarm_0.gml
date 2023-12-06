@@ -1,0 +1,1 @@
+obj_boss.active = true;

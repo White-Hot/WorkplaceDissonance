@@ -1,0 +1,2 @@
+HP--;
+flashTimer = 30;

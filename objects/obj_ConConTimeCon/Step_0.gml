@@ -1,0 +1,5 @@
+if (timer = true)
+{
+Time++;
+}
+

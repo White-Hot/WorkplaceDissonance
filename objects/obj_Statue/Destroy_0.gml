@@ -1,0 +1,1 @@
+obj_door2.Hp--;
